@@ -1846,7 +1846,7 @@ body {
 .cid-ruJTIy8SFy {
   padding-top: 45px;
   padding-bottom: 45px;
-  background: #ffffff;
+  background: #3a8b21;
 }
 .cid-ruJTIy8SFy .images-container.container-fluid {
   padding: 0;
@@ -1893,39 +1893,39 @@ body {
     -webkit-flex-basis: initial !important;
   }
 }
-.cid-ruJTfZh1fb {
+.cid-ruPElVr3XP {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/7badd91e29deb645919adca5fa22a114-1280x960.jpg");
 }
-.cid-ruJTfZh1fb .title {
+.cid-ruPElVr3XP .title {
   padding-bottom: 2.5rem;
 }
-.cid-ruJTfZh1fb .mbr-text {
+.cid-ruPElVr3XP .mbr-text {
   color: #c1c1c1;
   margin: 0;
   padding-top: 0.5rem;
   text-align: left;
 }
-.cid-ruJTfZh1fb .iconfont-wrapper {
+.cid-ruPElVr3XP .iconfont-wrapper {
   display: flex;
   align-items: center;
   width: 2.5rem;
   height: 2.5rem;
   margin-right: 2rem;
 }
-.cid-ruJTfZh1fb .iconfont-wrapper .amp-iconfont {
+.cid-ruPElVr3XP .iconfont-wrapper .amp-iconfont {
   font-size: 2.5rem;
 }
-.cid-ruJTfZh1fb .wrapper {
+.cid-ruPElVr3XP .wrapper {
   display: flex;
   padding: 1rem 0;
 }
-.cid-ruJTfZh1fb .wrapper .b-info {
+.cid-ruPElVr3XP .wrapper .b-info {
   width: 100%;
 }
 @media (max-width: 767px) {
-  .cid-ruJTfZh1fb .iconfont-wrapper {
+  .cid-ruPElVr3XP .iconfont-wrapper {
     display: none;
   }
 }
